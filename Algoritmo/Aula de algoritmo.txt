@@ -1,0 +1,49 @@
+Algoritmo:
+
+atributos são substantivos 
+ações ou métodos são verbos
+
+atriuto pessoa braço, perna etc
+método correr, brincar etc
+
+5 atributos e 5 métodos
+
+Avião:
+Atributos
+Nome do fabricante
+Números de assentos
+modelo do avião
+velocidade
+
+
+Métodos:
+levar passageiros
+andar no chão
+voar baixo
+voar alto
+fazer manobras no ar
+
+
+
+
+
+
+
+
+Leão
+Peso
+Altura
+Cor
+velocidade
+espécie
+
+
+Comer
+correr
+dormir
+pular
+brincar
+caçar
+
+
+
